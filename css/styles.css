@@ -1,0 +1,97 @@
+html {
+    scroll-behavior: smooth;
+}
+.is-180x180{
+    height: 180px;
+    width: 180px;
+}
+.skill-list > li{
+    margin: 30px 0 0 0;
+}
+
+@media (max-width: 768px) {
+    .has-bg-image {
+        background-image: url('../images/coverGT.jpg'), url('../images/coverGT.jpg');
+        background-repeat: no-repeat;
+        background-attachment: initial;
+        background-size: cover;
+        background-position: center;
+        z-index: -1;
+        /* opacity: 0.9; */
+    }
+    .github {
+        display: none;
+    }
+}
+@media (min-width: 768px) {
+    .has-bg-image {
+        background-image: url('../images/coverGT.jpg'), url('../images/coverGT.jpg');
+        background-repeat: no-repeat;
+        background-attachment: initial;
+        background-size: cover;
+        background-position: center;
+        /* opacity: 0.75; */
+    }
+}
+
+.has-bg-gt {
+    background-image: url('../images/coverGT.jpg');
+    background-repeat: no-repeat;
+    background-attachment: initial;
+    background-size: cover;
+    background-position: center;   
+}
+
+#aboutMe .download .button {
+    margin-top: 6px;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0);
+    border: 1;
+ }
+ #aboutMe .download .button:hover {
+    margin-top: 6px;
+    color: #363636;
+    background-color: rgba(0, 0, 0, 0);
+    border: 1;
+ }
+
+.bulma-image {
+    width: 200px;
+}
+.interests {
+    display: flex;
+    justify-content: center;
+}
+.summary-text {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 36em;
+}
+.skill-percentage {
+	float: right;
+}
+
+.skill-item {
+    margin-bottom: 100px;
+}
+
+.react-rotating-text-cursor {
+    animation: blinking-cursor 0.8s cubic-bezier(0.68, 0.01, 0.01, 0.99) 0s infinite;
+  }
+   
+  @keyframes blinking-cursor {
+    0% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+
+#contact .button:hover {
+    color: "white";
+    background-color: "blue";
+}
