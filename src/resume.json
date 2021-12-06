@@ -1,0 +1,366 @@
+{
+  "basics": {
+    "name": "Pranay Agrawal",
+    "label": ["Computer Scientist", "Machine Learning Researcher", "Tech Enthusiast"],
+    "picture": "images/pfp.webp",
+    "x_pictureFallback": "images/pfp.jpg",
+    "x_title": "Hey There! Glad you're here",
+    "resume": "pdf/ResumeAgrawal.pdf",
+    "summary": "Hey there, my name is Pranay Agrawal. Currently, I am conducting research as an undergraduate student at Georgia Tech and working on my own startup. This January, I will be interning at Amazon as a Software Development Engineer on the Alexa AI team. In the past, I have interned at NCR as a Software Engineer and Amazon as a Software Developer.",
+    "location": {
+      "country": "United States",
+      "countryCode": "US",
+      "region": ""
+    },
+    "email": "pranay [dot] agra [at] gatech [dot] edu",
+    "profiles": [
+      {
+        "network": "Email",
+        "username": "pranay.agra",
+        "url": "mailto:pranay.agra@gatech.edu",
+        "x_icon": "fas fa-2x fa-envelope"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "pranayagra",
+        "url": "https://www.linkedin.com/in/pranayagra",
+        "x_icon": "fab fa-2x fa-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "pranayagra",
+        "url": "https://github.com/pranayagra",
+        "x_icon": "fab fa-2x fa-github"
+      },
+      {
+        "network": "Devpost",
+        "username": "pranayagra",
+        "url": "https://devpost.com/pranayagra",
+        "x_icon":"fab fa-2x fa-dev"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Georgia Tech",
+      "position": "Graduation!",
+      "website": "https://www.gatech.edu/",
+      "startDate": "2022-05-06",
+      "endDate": "None",
+      "image": "images/timeline/gt.png",
+      "summary": "Graduated from Georgia Tech with a BS in CS with threads in Intelligence and Devices.",
+      "summary1": "",
+      "summary2": "",
+      "highlights": [],
+      "index": 5
+    },
+    {
+      "company": "Amazon",
+      "position": "Software Developer Intern",
+      "website": "https://www.amazon.jobs/en/teams/alexa-ai",
+      "startDate": "May 2021",
+      "endDate": "August 2021",
+      "image": "images/timeline/amazon.png",
+      "summary": "Developed upon Amazon Alexa AI to improve Alexa skill selection.",
+      "summary1": "Integrated Alexa skill manifest information at service runtime to make more informed decisions on which N Alexa skills are relevant to a user's vocal request.",
+      "summary2": "Implemented Datapath Precompute service with Amazon DynamoDB and Google Guava Cache to filter and store skill manifest data with 3 ms P99 data query latency, 15 min propagation delay, and reduce financial cost by 70%.",
+      "highlights": [{"name": "DataPath Precompute", "x_icon": "fab fa-aws"}, {"name": "Python", "x_icon": "fab fa-python"}, {"name": "Java", "x_icon": "fab fa-java"}, {"name": "TypeScript", "x_icon": "fab fa-aws"}, {"name": "Google Guava Cache", "x_icon": "fab fa-google"}],
+      "index": 4
+    },
+    {
+      "company": "NCR",
+      "position": "Software Developer Intern",
+      "website": "https://www.ncr.com/",
+      "image": "images/timeline/ncr.png",
+      "startDate": "May 2020",
+      "endDate": "JULY 2020",
+      "summary": "Developed upon NCR FastLane backend API to support mobile shopping worldwide.",
+      "summary1": "I developed a decentralized connector using framework Xamarin in .NET mobile development with Apple and Google Pay services to improve a comprehensive solution that allows consumers worldwide to scan and price items as they shop from their smartphone.",
+      "summary2": "We utilized Postman, Git, and unit tests throughout the development to ensure that code was properly maintained and tested.",
+      "highlights": [{"name": "C#", "x_icon": "fab fa-java"}, {"name": "Postman", "x_icon": "fas fa-code"}, {"name": "JUnit", "x_icon": "fas fa-code"}],
+      "index": 3
+    },
+    {
+      "company": "Georgia Tech CCG",
+      "position": "Undergraduate Researcher",
+      "website": "https://gvu.gatech.edu/research/labs/contextual-computing-group",
+      "image": "images/timeline/gvu.jpeg",
+      "startDate": "October 2019",
+      "endDate": "None",
+      "summary": "Collaborated with Prof. Thad Starner on the application of American Sign Language towards creating a game for deaf children.",
+      "summary1": "I built a sign verification system using pose estimation libraries such as Kinect and combined them with pattern recognition models such as Hidden Markov Models and Transformers implemented using Python and PyTorch.",
+      "summary2": "We demonstrated that HMMs outperform Transformers for American Sign Language recognition by on average 17% in real-world scenarios. Our results have been published in the undergraduate first-place award-winning paper titled \"CopyCat: Using Sign Language Recognition to Help Deaf Children Acquire Language Skills\" at CHI'21. Furthermore, we showed that personalizing the model to the user as he or she plays the game increases the accuracy from 85% to 92%. Our results are currently under review at IUI 2022.",
+      "highlights": [{"name": "Python", "x_icon": "fab fa-python"}, {"name": "PyTorch", "x_icon": "fas fa-code"}, {"name": "C++", "x_icon": "fas fa-code"}, {"name": "OpenCV", "x_icon": "fas fa-code"}, {"name": "Django", "x_icon": "fas fa-server"}, {"name": "Unity", "x_icon": "fab fa-unity"}],
+      "index": 2
+    },
+    {
+      "company": "VISION",
+      "position": "Startup/Undergraduate Research",
+      "website": "http://sonify.psych.gatech.edu/",
+      "image": "images/timeline/vision.PNG",
+      "startDate": "August 2019",
+      "endDate": "None",
+      "summary": "Collaborated with Prof. Bruce Walker on the application of navigational aid towards creating a wearable device for visually impaired individuals.",
+      "summary1": "I built a system using the Intel RealSense depth camera to precieve the environment and combined them with bone conduction headphones to relay directional information to the user. We use a whiskering algorithm to determine the best path forward, smart segmentation to determine walkable regions, and path smoothing to minimize extreme change in directions.",
+      "summary2": "We demonstrated that VISION reduces 70% of accidents from the traditional white cane in real-world scenarios. We plan to publish our results to ASSETS in May 2022.",
+      "highlights": [{"name": "Python", "x_icon": "fab fa-python"}, {"name": "C++", "x_icon": "fas fa-code"}, {"name": "Raspberry Pi", "x_icon": "fab fa-raspberry-pi"}, {"name": "OpenCV", "x_icon": "fas fa-code"}],
+      "index": 1
+    },
+    {
+      "company": "Georgia Tech",
+      "position": "Incoming BS CS Student",
+      "website": "https://www.gatech.edu/",
+      "startDate": "August 2019",
+      "endDate": "None",
+      "image": "images/timeline/gt.png",
+      "summary": "Entered Georgia Tech as a undergraduate student majoring in CS.",
+      "summary1": "",
+      "summary2": "",
+      "highlights": [],
+      "index": 0
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "icon": "images/skills/python.png",
+      "use": "",
+      "size": 2,
+      "level": "Advanced"
+    },
+    {
+      "name": "PyTorch",
+      "level": "Advanced",
+      "size": 2,
+      "icon": "images/skills/pytorch.png",
+      "use": ""
+    },
+    {
+      "name": "Java",
+      "level": "Advanced",
+      "size": 2,
+      "icon": "images/skills/java.jpg",
+      "use": ""
+    },
+    {
+      "name": "C++",
+      "level": "Advanced",
+      "size": 2,
+      "icon": "images/skills/c++.png",
+      "use": ""
+    },
+    {
+      "name": "OpenCV",
+      "level": "Advanced",
+      "size": 2,
+      "icon": "images/skills/opencv.png",
+      "use": ""
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "size": 2,
+      "icon": "images/skills/git.png",
+      "use": ""
+    },
+    {
+      "name": "C#",
+      "level": "Advanced",
+      "size": 2,
+      "icon": "images/skills/csharp.png",
+      "use": ""
+    },
+    {
+      "name": "TensorFlow",
+      "level": "Advanced",
+      "size": 3,
+      "icon": "images/skills/tensorflow.png",
+      "use": ""
+    },
+    {
+      "name": "Node.js",
+      "level": "Intermediate",
+      "size": 2,
+      "icon": "images/skills/nodejs.png",
+      "use": ""
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "size": 3,
+      "icon": "images/skills/javascript.png",
+      "use": ""
+    },
+    {
+      "name": "Matlab",
+      "level": "Intermediate",
+      "size": 2,
+      "icon": "images/skills/matlab.png",
+      "use": ""
+    },
+    {
+      "name": "Mathematica",
+      "level": "Advanced",
+      "size": 2,
+      "icon": "images/skills/mathematica.png",
+      "use": ""
+    },
+    {
+      "name": "JUnit",
+      "level": "Advanced",
+      "size": 2,
+      "icon": "images/skills/junit.png",
+      "use": ""
+    },
+    {
+      "name": "Amazon DynamoDB",
+      "level": "Intermediate",
+      "size": 2,
+      "icon": "images/skills/dynamoDB.png",
+      "use": ""
+    },
+    {
+      "name": "Postman",
+      "level": "Intermediate",
+      "size": 2,
+      "icon": "images/skills/postman.png",
+      "use": ""
+    },
+    {
+      "name": "Docker",
+      "level": "Intermediate",
+      "size": 2,
+      "icon": "images/skills/docker.png",
+      "use": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Indian",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Table tennis",
+      "x_icon": "fa-table-tennis"
+    },
+    {
+      "name": "Travel bug",
+      "x_icon": "fas fa-globe-americas"
+    },
+    {
+      "name": "Foodie",
+      "x_icon": "fa-utensils"
+    },
+    {
+      "name": "Basketball",
+      "x_icon": "fas fa-basketball-ball"
+    }
+  ],
+  "projects": [
+    {
+      "name": "CopyCat",
+      "html_url": "https://github.com/DhruvaBansal00/SBHMM-HTK",
+      "description": "A game which leverages Sign Language recognition to help deaf children acquire short term memory skills. Uses pose estimation to extract landmarks and models like HMMs and Transformers for recognizing video sequences.",
+      "language": "Python",
+      "language2": "C++"
+    },
+    {
+      "name": "VISION",
+      "html_url": "None",
+      "description": "A wearable device which leverages GPS to help visually impaired individuals navigate the outdoor world. In conjunction with the white cane, VISION uses a depth camera to determine the best valid path torwards the destination.",
+      "language": "Python"
+    },
+    {
+      "name": "Health Port",
+      "html_url": "https://devpost.com/software/health-port",
+      "description": "Health Port is the one-stop shop for tracking fitness made specifically for the US Army’s special operations forces. Health Port garners all of this data into one place for an easily visualized and seamless training experience.",
+      "language": "JavaScript",
+      "language2": "JavaScript"
+    },
+    {
+      "name": "GreenUp",
+      "html_url": "https://devpost.com/software/greenup",
+      "description": "GreenUp is a crowdsource recycling application built to help save the environment by allowing community members to identify areas with litter and work together in an engaging and productive method through gamification.",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Radius",
+      "html_url": "https://devpost.com/software/radius-ntml1x",
+      "description": "Radius aims to allows people to experience communities and brings communities closer together by highlighting what makes them so special: the people and what they do. Radius lets you easily see what's going on and where it's going on.",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Calendar Buddy",
+      "html_url": "https://devpost.com/software/calendar-buddy",
+      "description": "Calendar Buddy is a smart calendar that provides suggestions when scheduling new events on your calendar based on the event's overall significance, mental and physical fatigue, distance, and indoor/outdoor location.",
+      "language": "Python",
+      "language2": "JavaScript"
+    },
+    {
+      "name": "Parallelized MCTS",
+      "html_url": "https://github.com/pranayagra/AI-MCTS-Research",
+      "description": "AI research to explore the parallelization of the Monte Carlo Tree Search approach in the game Dots and Boxes. Uses Message Passing library Open-MPI and High-Performance Computing to perform simulations and combine results. ",
+      "language": "Java",
+      "language2": "Python"
+    }
+  ],
+  "researchArticles": [
+    {
+      "name": "Bachelor Thesis",
+      "html_url": "https://github.com/DhruvaBansal00/SBHMM-HTK",
+      "description": "Bachelor Thesis titled \"Leveraging 2D pose estimators for American Sign Language Recognition\"",
+      "image": "images/research/thesis.png",
+      "pdf": "pdf/BS_Thesis.pdf"
+    },
+    {
+      "name": "CopyCat",
+      "html_url": "https://dl.acm.org/doi/10.1145/3411763.3451523",
+      "description": " CopyCat: Using Sign Language Recognition to Help Deaf Children Acquire Language Skills. In Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems (CHI EA '21).",
+      "image": "images/research/copycat.png",
+      "pdf": "pdf/CopyCat.pdf"
+    },
+    {
+      "name": "Parallelized MCTS",
+      "html_url": "https://digitalcommons.murraystate.edu/postersatthecapitol/2019/WKU/7/",
+      "description": "Performance of the Parallelized Monte-Carlo Tree Search Approach for Dots and Boxes. In Proceedings of the 2018 Posters at the Capitol Conference on Artificial Intelligence and Robotics Commons.",
+      "image": "images/research/parallelizedMCTS.png",
+      "pdf": "pdf/CoMOTO.pdf"
+    }
+  ],
+  "Awards": [
+    {
+      "name": "CHI'21",
+      "html_url": "https://chi2021.acm.org/for-attendees/highlights/awards",
+      "description": "[May 2021] First place at the CHI 2021 Student Research Competition (Undergraduate division).",
+      "image": "images/awards/chi.png",
+      "date": "2021-05-05"
+    },
+    {
+      "name": "PURA",
+      "html_url": "https://undergradresearch.gatech.edu/content/presidents-undergraduate-research-awards",
+      "description": "[Aug 2021] President's Undergraduate Research Award (PURA) for funding progress on the CopyCat project.",
+      "image": "images/awards/pura.png",
+      "date": "2021-06-13"
+    },
+    {
+      "name": "BattleCode",
+      "html_url": "https://battlecode.org/",
+      "description": "[Jan 2021] Finalist at MIT AI programming competition.",
+      "image": "images/awards/battlecode.jpg",
+      "date": "2021-01-03"
+    },
+    {
+      "name": "HackGT 7",
+      "html_url": "https://devpost.com/software/health-port",
+      "description": "[Oct 2020] Best HackGT 7 Squad Fitness Tracker Interface for the Health Port project.",
+      "image": "images/awards/hackgt7.png",
+      "date": "2020-10-18"
+    }
+  ]
+}
