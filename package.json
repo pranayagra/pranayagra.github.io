@@ -37,6 +37,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "@iconify/react": "^3.1.0",
     "gh-pages": "^2.2.0"
   }
 }

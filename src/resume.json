@@ -48,7 +48,7 @@
       "startDate": "2022-05-06",
       "endDate": "None",
       "image": "images/timeline/gt.png",
-      "summary": "Graduated from Georgia Tech with a BS in CS with threads in Intelligence and Devices.",
+      "summary": "Graduating from Georgia Tech with a BS in CS with threads in Intelligence and Devices.",
       "summary1": "",
       "summary2": "",
       "highlights": [],
@@ -90,7 +90,7 @@
       "summary": "Collaborated with Prof. Thad Starner on the application of American Sign Language towards creating a game for deaf children.",
       "summary1": "I built a sign verification system using pose estimation libraries such as Kinect and combined them with pattern recognition models such as Hidden Markov Models and Transformers implemented using Python and PyTorch.",
       "summary2": "We demonstrated that HMMs outperform Transformers for American Sign Language recognition by on average 17% in real-world scenarios. Our results have been published in the undergraduate first-place award-winning paper titled \"CopyCat: Using Sign Language Recognition to Help Deaf Children Acquire Language Skills\" at CHI'21. Furthermore, we showed that personalizing the model to the user as he or she plays the game increases the accuracy from 85% to 92%. Our results are currently under review at IUI 2022.",
-      "highlights": [{"name": "Python", "x_icon": "fab fa-python"}, {"name": "PyTorch", "x_icon": "fas fa-code"}, {"name": "C++", "x_icon": "fas fa-code"}, {"name": "OpenCV", "x_icon": "fas fa-code"}, {"name": "Django", "x_icon": "fas fa-server"}, {"name": "Unity", "x_icon": "fab fa-unity"}],
+      "highlights": [{"name": "Python", "x_icon": "fab fa-python"}, {"name": "PyTorch", "x_icon": "fas fa-python"}, {"name": "C++", "x_icon": "fas fa-code"}, {"name": "OpenCV", "x_icon": "fas fa-code"}, {"name": "Django", "x_icon": "fas fa-server"}, {"name": "Unity", "x_icon": "fab fa-unity"}],
       "index": 2
     },
     {
@@ -240,7 +240,7 @@
       "fluency": "Fluent speaker"
     },
     {
-      "language": "Indian",
+      "language": "Hindi",
       "fluency": "Native speaker"
     }
   ],
@@ -272,7 +272,7 @@
     },
     {
       "name": "VISION",
-      "html_url": "None",
+      "html_url": "https://github.com/gdeshpande9/Vision-Depth-Map",
       "description": "A wearable device which leverages GPS to help visually impaired individuals navigate the outdoor world. In conjunction with the white cane, VISION uses a depth camera to determine the best valid path torwards the destination.",
       "language": "Python"
     },
@@ -280,8 +280,7 @@
       "name": "Health Port",
       "html_url": "https://devpost.com/software/health-port",
       "description": "Health Port is the one-stop shop for tracking fitness made specifically for the US Army’s special operations forces. Health Port garners all of this data into one place for an easily visualized and seamless training experience.",
-      "language": "JavaScript",
-      "language2": "JavaScript"
+      "language": "JavaScript"
     },
     {
       "name": "GreenUp",
@@ -329,24 +328,24 @@
       "name": "Parallelized MCTS",
       "html_url": "https://digitalcommons.murraystate.edu/postersatthecapitol/2019/WKU/7/",
       "description": "Performance of the Parallelized Monte-Carlo Tree Search Approach for Dots and Boxes. In Proceedings of the 2018 Posters at the Capitol Conference on Artificial Intelligence and Robotics Commons.",
-      "image": "images/research/parallelizedMCTS.png",
-      "pdf": "pdf/CoMOTO.pdf"
+      "image": "images/research/parallelizedMCTS.PNG  ",
+      "pdf": "pdf/ParallelizedMCTS.pdf"
     }
   ],
   "Awards": [
-    {
-      "name": "CHI'21",
-      "html_url": "https://chi2021.acm.org/for-attendees/highlights/awards",
-      "description": "[May 2021] First place at the CHI 2021 Student Research Competition (Undergraduate division).",
-      "image": "images/awards/chi.png",
-      "date": "2021-05-05"
-    },
     {
       "name": "PURA",
       "html_url": "https://undergradresearch.gatech.edu/content/presidents-undergraduate-research-awards",
       "description": "[Aug 2021] President's Undergraduate Research Award (PURA) for funding progress on the CopyCat project.",
       "image": "images/awards/pura.png",
       "date": "2021-06-13"
+    },
+    {
+      "name": "CHI'21",
+      "html_url": "https://chi2021.acm.org/for-attendees/highlights/awards",
+      "description": "[May 2021] First place at the CHI 2021 Student Research Competition (Undergraduate division).",
+      "image": "images/awards/chi.png",
+      "date": "2021-05-05"
     },
     {
       "name": "BattleCode",
@@ -361,6 +360,13 @@
       "description": "[Oct 2020] Best HackGT 7 Squad Fitness Tracker Interface for the Health Port project.",
       "image": "images/awards/hackgt7.png",
       "date": "2020-10-18"
+    },
+    {
+      "name": "Terminal Live",
+      "html_url": "https://terminal.c1games.com/",
+      "description": "[Oct 2020] First place out of Georgia Tech and UT Austin teams at Correlation One AI programming competition and 13th globally out of 30,000 teams.",
+      "image": "images/awards/live.png",
+      "date": "2020-10-09"
     }
   ]
 }

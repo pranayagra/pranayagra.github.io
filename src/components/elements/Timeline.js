@@ -9,7 +9,7 @@ function Timeline() {
     <div className={`timeline ${active ? "is-left" : "is-centered"}`}>    
     <header className="timeline-header">
     <span className="tag is-medium is-dark">
-      {new Date().getFullYear()}
+      {new Date().getFullYear() + 1}
     </span>
   </header>
   <div className="timeline-item">
