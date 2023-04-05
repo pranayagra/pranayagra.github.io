@@ -52,7 +52,7 @@
       "summary1": "",
       "summary2": "",
       "highlights": [],
-      "index": 6
+      "index": 8
     },
   	{      
   	  "company": "Stanford University",
@@ -65,7 +65,7 @@
       "summary1": "",
       "summary2": "",
       "highlights": [],
-      "index": 6
+      "index": 7
     },
     {
       "company": "Georgia Tech",
@@ -78,6 +78,19 @@
       "summary1": "",
       "summary2": "",
       "highlights": [],
+      "index": 6
+    },
+    {
+      "company": "DRW",
+      "position": "Software Developer Intern",
+      "website": "https://drw.com/",
+      "startDate": "June 2022",
+      "endDate": "August 2022",
+      "image": "images/timeline/drw.png",
+      "summary": "Built from scratch a UDP multicast subsystem that allows any application to display messages, play sounds, and execute commands on the primary FICC trading UI with extremely low effort from the developer’s perspective.",
+      "summary1": "",
+      "summary2": "",
+      "highlights": [{"name": "Java", "x_icon": "fab fa-java"}, {"name": "Multicast UDP", "x_icon": "fa-solid fa-network-wired"}, {"name": "Python", "x_icon": "fab fa-python"}, {"name": "C#", "x_icon": "fab fa-java"}, {"name": "JUnit", "x_icon": "fas fa-code"}],
       "index": 5
     },
     {
@@ -90,7 +103,7 @@
       "summary": "Developed upon Amazon Alexa AI to improve Alexa skill selection.",
       "summary1": "Integrated Alexa skill manifest information at service runtime to make more informed decisions on which N Alexa skills are relevant to a user's vocal request.",
       "summary2": "Implemented Datapath Precompute service with Amazon DynamoDB and Google Guava Cache to filter and store skill manifest data with 3 ms P99 data query latency, 15 min propagation delay, and reduce financial cost by 70%.",
-      "highlights": [{"name": "DataPath Precompute", "x_icon": "fab fa-aws"}, {"name": "Python", "x_icon": "fab fa-python"}, {"name": "Java", "x_icon": "fab fa-java"}, {"name": "TypeScript", "x_icon": "fab fa-aws"}, {"name": "Google Guava Cache", "x_icon": "fab fa-google"}],
+      "highlights": [{"name": "DataPath Precompute", "x_icon": "fab fa-aws"}, {"name": "Python", "x_icon": "fab fa-python"}, {"name": "Java", "x_icon": "fab fa-java"}, {"name": "TypeScript", "x_icon": "fab fa-aws"}, {"name": "React", "x_icon": "fab fa-react"}, {"name": "Google Guava Cache", "x_icon": "fab fa-google"}],
       "index": 4
     },
     {
