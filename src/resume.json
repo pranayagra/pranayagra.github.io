@@ -6,18 +6,18 @@
     "x_pictureFallback": "images/pfp.jpg",
     "x_title": "Hey There! Glad you're here",
     "resume": "pdf/ResumeAgrawal.pdf",
-    "summary": "Hey there, my name is Pranay Agrawal. Currently, I am conducting research as an undergraduate student at Georgia Tech and working on my own startup. This January, I will be interning at Amazon as a Software Development Engineer on the Alexa AI team. In the past, I have interned at NCR as a Software Engineer and Amazon as a Software Developer.",
+    "summary": "Hey there, my name is Pranay Agrawal. I am a MS CS student at Stanford University, specializing in Artificial Intelligence. This June, I will be interning at Citadel Securities as a Software Developer. In the past, I have worked on exciting problems at Amazon, DRW, and NCR as a Software Engineer. Feel free to reach out if you like what you see, are working on interesting projects, or just wanna say hi!",
     "location": {
       "country": "United States",
       "countryCode": "US",
       "region": ""
     },
-    "email": "pranay [dot] agra [at] gatech [dot] edu",
+    "email": "pranagra [at] stanford [dot] edu",
     "profiles": [
       {
         "network": "Email",
-        "username": "pranay.agra",
-        "url": "mailto:pranay.agra@gatech.edu",
+        "username": "pranagra",
+        "url": "mailto:pranagra@stanford.edu",
         "x_icon": "fas fa-2x fa-envelope"
       },
       {
@@ -41,6 +41,32 @@
     ]
   },
   "work": [
+  	{      
+  	  "company": "Citadel Securities",
+      "position": "Software Developer Intern",
+      "website": "https://www.citadelsecurities.com/",
+      "startDate": "June 2023",
+      "endDate": "August 2023",
+      "image": "images/timeline/citsec.png",
+      "summary": "Entering Citadel Securities as a SDE.",
+      "summary1": "",
+      "summary2": "",
+      "highlights": [],
+      "index": 6
+    },
+  	{      
+  	  "company": "Stanford University",
+      "position": "MS CS Student",
+      "website": "https://www.stanford.edu/",
+      "startDate": "September 2023",
+      "endDate": "None",
+      "image": "images/timeline/stanford.png",
+      "summary": "Entered Stanford University as an MS CS student specializing in AI.",
+      "summary1": "",
+      "summary2": "",
+      "highlights": [],
+      "index": 6
+    },
     {
       "company": "Georgia Tech",
       "position": "Graduation!",
@@ -48,7 +74,7 @@
       "startDate": "2022-05-06",
       "endDate": "None",
       "image": "images/timeline/gt.png",
-      "summary": "Graduating from Georgia Tech with a BS in CS with threads in Intelligence and Devices.",
+      "summary": "Graduated from Georgia Tech with a BS in CS with threads in Intelligence and Devices.",
       "summary1": "",
       "summary2": "",
       "highlights": [],
@@ -108,7 +134,7 @@
     },
     {
       "company": "Georgia Tech",
-      "position": "Incoming BS CS Student",
+      "position": "BS CS Student",
       "website": "https://www.gatech.edu/",
       "startDate": "August 2019",
       "endDate": "None",
@@ -334,6 +360,20 @@
   ],
   "Awards": [
     {
+      "name": "BattleCode",
+      "html_url": "https://battlecode.org/",
+      "description": "[Jan 2021, Jan 2022, Jan 2023] Three-time Finalist (5th Place) at MIT AI programming competition.",
+      "image": "images/awards/battlecode.jpg",
+      "date": "2023-01-03"
+    },
+    {
+      "name": "Terminal Live",
+      "html_url": "https://terminal.c1games.com/",
+      "description": "[Mar 2022] First place against top universities in the East Coast region at Correlation One AI programming competition and 6th globally out of 50,000 players.",
+      "image": "images/awards/live.png",
+      "date": "2022-03-04"
+    },
+    {
       "name": "PURA",
       "html_url": "https://undergradresearch.gatech.edu/content/presidents-undergraduate-research-awards",
       "description": "[Aug 2021] President's Undergraduate Research Award (PURA) for funding progress on the CopyCat project.",
@@ -343,16 +383,9 @@
     {
       "name": "CHI'21",
       "html_url": "https://chi2021.acm.org/for-attendees/highlights/awards",
-      "description": "[May 2021] First place at the CHI 2021 Student Research Competition (Undergraduate division).",
+      "description": "[May 2021] First place at the ACM-CHI 2021 Student Research Competition (undergraduate division).",
       "image": "images/awards/chi.png",
       "date": "2021-05-05"
-    },
-    {
-      "name": "BattleCode",
-      "html_url": "https://battlecode.org/",
-      "description": "[Jan 2021] Finalist at MIT AI programming competition.",
-      "image": "images/awards/battlecode.jpg",
-      "date": "2021-01-03"
     },
     {
       "name": "HackGT 7",
@@ -360,13 +393,6 @@
       "description": "[Oct 2020] Best HackGT 7 Squad Fitness Tracker Interface for the Health Port project.",
       "image": "images/awards/hackgt7.png",
       "date": "2020-10-18"
-    },
-    {
-      "name": "Terminal Live",
-      "html_url": "https://terminal.c1games.com/",
-      "description": "[Oct 2020] First place out of Georgia Tech and UT Austin teams at Correlation One AI programming competition and 13th globally out of 30,000 teams.",
-      "image": "images/awards/live.png",
-      "date": "2020-10-09"
     }
   ]
 }
