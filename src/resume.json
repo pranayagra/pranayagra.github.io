@@ -6,7 +6,7 @@
     "x_pictureFallback": "images/pfp.jpg",
     "x_title": "Hey There! Glad you're here",
     "resume": "pdf/ResumeAgrawal.pdf",
-    "summary": "Hey there, my name is Pranay Agrawal. I am a MS CS student at Stanford University, specializing in Artificial Intelligence. This June, I will be interning at Citadel Securities as a Software Developer. In the past, I have worked on exciting problems at Amazon, DRW, and NCR as a Software Engineer. Feel free to reach out if you like what you see, are working on interesting projects, or just wanna say hi!",
+    "summary": "Hey there, my name is Pranay Agrawal. I am a MS CS student at Stanford University, specializing in Artificial Intelligence. This August, I will be researching under Professor Itai Ashlagi. In the past, I have worked on exciting problems at Amazon, Citadel Securities, DRW, and NCR as a Software Engineer. Feel free to reach out if you like what you see, are working on interesting projects, or just wanna say hi!",
     "location": {
       "country": "United States",
       "countryCode": "US",
@@ -48,10 +48,10 @@
       "startDate": "June 2023",
       "endDate": "August 2023",
       "image": "images/timeline/citsec.png",
-      "summary": "Entering Citadel Securities as a SDE.",
+      "summary": "Elevated traceability and resilience by architecting a new framework delineating job dependencies and global data cache dependencies. Also replaced an Excel-based solution with a Python dashboard, improvings trader UI flexibility, enabling complex field calculations, and ensuring greater system stability for enhanced trade decision-making.",
       "summary1": "",
       "summary2": "",
-      "highlights": [],
+      "highlights": [{"name": "Python", "x_icon": "fab fa-python"}, {"name": "C++", "x_icon": "fas fa-code"}, {"name": "Plotly", "x_icon": "fas fa-chart-column"}],
       "index": 8
     },
   	{      
@@ -68,19 +68,6 @@
       "index": 7
     },
     {
-      "company": "Georgia Tech",
-      "position": "Graduation!",
-      "website": "https://www.gatech.edu/",
-      "startDate": "2022-05-06",
-      "endDate": "None",
-      "image": "images/timeline/gt.png",
-      "summary": "Graduated from Georgia Tech with a BS in CS with threads in Intelligence and Devices.",
-      "summary1": "",
-      "summary2": "",
-      "highlights": [],
-      "index": 6
-    },
-    {
       "company": "DRW",
       "position": "Software Developer Intern",
       "website": "https://drw.com/",
@@ -91,6 +78,19 @@
       "summary1": "",
       "summary2": "",
       "highlights": [{"name": "Java", "x_icon": "fab fa-java"}, {"name": "Multicast UDP", "x_icon": "fa-solid fa-network-wired"}, {"name": "Python", "x_icon": "fab fa-python"}, {"name": "C#", "x_icon": "fab fa-java"}, {"name": "JUnit", "x_icon": "fas fa-code"}],
+      "index": 6
+    },
+    {
+      "company": "Georgia Tech",
+      "position": "Graduation!",
+      "website": "https://www.gatech.edu/",
+      "startDate": "2022-05-06",
+      "endDate": "None",
+      "image": "images/timeline/gt.png",
+      "summary": "Graduated from Georgia Tech with a BS in CS with threads in Intelligence and Devices.",
+      "summary1": "",
+      "summary2": "",
+      "highlights": [],
       "index": 5
     },
     {
